@@ -28,7 +28,7 @@ public class MainActivity extends ActionBarActivity implements OnScrollChangedCa
         mToolbar = (Toolbar) findViewById(R.id.toolbar);
         mActionBarBackgroundDrawable = mToolbar.getBackground();
         setSupportActionBar(mToolbar);
-//mkjklgsdj
+//mkjklgsdj jksdfgjksl dffjskljglks
         mStatusBarManager = new SystemBarTintManager(this);
         mStatusBarManager.setStatusBarTintEnabled(true);
         mInitialStatusBarColor = Color.BLACK;
